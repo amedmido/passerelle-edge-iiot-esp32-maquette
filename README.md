@@ -22,10 +22,10 @@ Payload :
 
 (En cas de dépassement du seuil critique T > 45°C, le champ status passe automatiquement à ALERT_CRITICAL).
 
-Simulation Interactive en Direct (Wokwi)
+## Simulation Interactive en Direct (Wokwi)
 Visualisez les trames MQTT en temps réel et simulez les variations de température :
 
-👉 Lancer la passerelle ESP32 sur Wokwi
+👉 https://wokwi.com/projects/480035239852906497
 
 Auteur
 Ahmed El Ayachi
